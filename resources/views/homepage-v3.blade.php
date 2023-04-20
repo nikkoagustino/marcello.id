@@ -112,10 +112,10 @@
         @media screen and (max-width: 768px) {
             .navbar-brand img {
                 height: 60px;
-                background-size: contain;
             }
             #hero-banner {
                 min-height: 80vh;
+                background-size: contain;
                 background-position: bottom right;
             }
             #services {
