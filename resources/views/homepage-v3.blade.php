@@ -37,7 +37,7 @@
             background-image: url('assets/img/hero-img.webp');
             background-position: top right;
             background-repeat: no-repeat;
-            background-size: contain;
+            background-size: cover;
         }
         #profile {
             background-image: url('assets/img/circuit-right.webp');
@@ -48,11 +48,13 @@
             background-image: url('assets/img/service-bg.webp');
             background-position: top center;
             background-repeat: no-repeat;
+            background-size: cover;
         }
         #portfolio {
             background-image: url('assets/img/porto-bg.webp');
             background-position: top center;
-            background-repeat: no-repeat;
+            background-size: cover;
+            background-repeat: no-repeat;   
         }
         #contact-us {
             background-image: url('assets/img/contact-bg-left.webp'), url('assets/img/contact-bg-right.webp');
