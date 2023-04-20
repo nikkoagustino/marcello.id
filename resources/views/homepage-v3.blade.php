@@ -112,6 +112,7 @@
         @media screen and (max-width: 768px) {
             .navbar-brand img {
                 height: 60px;
+                background-size: contain;
             }
             #hero-banner {
                 min-height: 80vh;
@@ -232,7 +233,7 @@
                     <div class="col-12 col-md-6 p-3 pt-5 p-md-5 text-light">
                         <h2 class="fw-bolder">LAYANAN KAMI</h2>
                         <p>
-                            Lorem ipsum, dolor sit amet consectetur adipisicing elit. Odit, officia, expedita consectetur veniam culpa ipsa. Sit ducimus distinctio necessitatibus aperiam veniam dolores suscipit ut ex, impedit vel, explicabo, dolor qui?
+                            Marcello.id hadir untuk membantu brand anda dominan di pasar masyarakat. Tiap layanan kami adalah solusi kesuksesan di era digital secara global.
                         </p>
                     </div>
                     <div class="col-md-2"></div>
