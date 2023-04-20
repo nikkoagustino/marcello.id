@@ -4,8 +4,8 @@
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <title>Jasa Pembuatan Website - Marcello.id</title>
-        <link rel="icon" href="{{ url('assets/img/favicon.webp') }}">
-        <link rel="shortcut-icon" href="{{ url('assets/img/favicon.webp') }}">
+        <link rel="icon" href="{{ url('assets/img/favicon-white.webp') }}">
+        <link rel="shortcut-icon" href="{{ url('assets/img/favicon-white.webp') }}">
         <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-0evHe/X+R7YkIZDRvuzKMRqM+OrBnVFBL6DOitfPri4tjfHxaWutUpFmBp4vmVor" crossorigin="anonymous">
         <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/js/bootstrap.bundle.min.js" integrity="sha384-pprn3073KE6tl6bjs2QrFaJGz5/SUsLqktiwsUTF55Jfv3qYSDhgCecCxMW52nD2" crossorigin="anonymous"></script>
         <script src="https://kit.fontawesome.com/ca0010aa25.js" crossorigin="anonymous"></script>
@@ -159,7 +159,7 @@
                     <div class="col-12 col-md-6 text-dark">
                         <h1 class="fw-bolder text-primary">Perkenalkan Bisnis Anda Kapan Saja, Dimana Saja</h1>
                         <p class="mt-4">#TimMarcelloID hadir sebagai solusi pengembangan bisnis dalam jasa pembuatan website yang dapat disesuaikan dengan konsep identitas visual perusahaan Anda, agar dominan di pasar masyarakat</p>
-                        <button class="btn btn-lg py-3 px-5 btn-primary mt-3">Pelajari Lebih Lanjut</button>
+                        <a href="#services" class="btn btn-lg py-3 px-5 btn-primary mt-3">Pelajari Lebih Lanjut</a>
                     </div>
                 </div>
             </div>
